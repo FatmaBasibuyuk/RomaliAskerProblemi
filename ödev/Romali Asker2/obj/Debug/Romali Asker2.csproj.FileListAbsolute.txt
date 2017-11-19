@@ -1,0 +1,30 @@
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.exe.config
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.exe
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.pdb
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali_Asker2.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.exe
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.pdb
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.exe.config
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.exe
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.pdb
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.exe
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\bin\Debug\Romali Asker2.pdb
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.csprojResolveAssemblyReference.cache
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali_Asker2.Form1.resources
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali_Asker2.Properties.Resources.resources
+C:\Users\LAB210-PC 1\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali Asker2.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Romali Asker2\Romali Asker2\obj\Debug\Romali_Asker2.frmRomaliAskerOdevi.resources
+C:\Users\pc\Desktop\ödev\Romali Asker2\bin\Debug\Romali Asker2.exe.config
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali Asker2.exe
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali Asker2.pdb
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali Asker2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali_Asker2.frmRomaliAskerOdevi.resources
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali_Asker2.Properties.Resources.resources
+C:\Users\pc\Desktop\ödev\Romali Asker2\obj\Debug\Romali Asker2.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\ödev\Romali Asker2\bin\Debug\Romali Asker2.exe
+C:\Users\pc\Desktop\ödev\Romali Asker2\bin\Debug\Romali Asker2.pdb
+C:\Users\pc\Desktop\Yazılım Sınama 1.Ödev(RomalıAsker)\ödev\Romali Asker2\bin\Debug\Romali Asker2.exe.config
+C:\Users\pc\Desktop\Yazılım Sınama 1.Ödev(RomalıAsker)\ödev\Romali Asker2\obj\Debug\Romali Asker2.exe
+C:\Users\pc\Desktop\Yazılım Sınama 1.Ödev(RomalıAsker)\ödev\Romali Asker2\obj\Debug\Romali Asker2.pdb
